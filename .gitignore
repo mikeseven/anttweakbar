@@ -6,6 +6,7 @@
 *.user
 *.asp
 *.pch
+*.vxproj
 /src/debug32
 /src/debug64
 /src/release32
@@ -32,10 +33,12 @@ lib/*.so.*
 *.lo
 *.o
 *.obj
+*.iobj
 
 # Precompiled Headers
 *.gch
 *.pch
+*.ipdb
 
 # Compiled Dynamic libraries
 *.so
